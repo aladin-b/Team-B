@@ -34,6 +34,7 @@
           <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.1.1" />
           <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.4.0-M1" />
           <element id="library" level="project" name="Maven: org.jetbrains:annotations:16.0.3" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.10" />
           <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.3" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" />

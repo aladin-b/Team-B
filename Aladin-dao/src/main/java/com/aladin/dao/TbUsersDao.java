@@ -1,6 +1,6 @@
 package com.aladin.dao;
 
-import com.bishe.portal.model.mo.TbUsers;
+import com.aladin.model.mo.TbUsers;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 
